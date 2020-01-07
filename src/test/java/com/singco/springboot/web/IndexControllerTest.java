@@ -24,6 +24,6 @@ public class IndexControllerTest {
         String body = this.restTemplate.getForObject("/", String.class);
 
         // then
-        assertThat(body).contains("융융아 아픈 거(눈, 독감) 얼른 다 나았으면 좋겠어!! 아프지마!!💊💙");
+        assertThat(body).contains("스프링부트로 시작하는 웹 서비스 Ver.2");
     }
 }
