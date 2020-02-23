@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.singco.springboot.web.ProfileControllerUnitTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-01-07T16:55:26" hostname="Kui-MacBookPro.local" time="0.001">
+<testsuite name="com.singco.springboot.web.ProfileControllerUnitTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-01-08T03:25:28" hostname="Kui-MacBookPro.local" time="0.002">
   <properties/>
   <testcase name="ifNotExistRealProfileGetFirstValue" classname="com.singco.springboot.web.ProfileControllerUnitTest" time="0.001"/>
-  <testcase name="getRealProfile" classname="com.singco.springboot.web.ProfileControllerUnitTest" time="0.0"/>
+  <testcase name="getRealProfile" classname="com.singco.springboot.web.ProfileControllerUnitTest" time="0.001"/>
   <testcase name="ifNotExistActiveProfileGetDefaultValue" classname="com.singco.springboot.web.ProfileControllerUnitTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
